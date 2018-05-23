@@ -1,0 +1,4 @@
+Link - http://www.vlfeat.org/matconvnet/pretrained/#imagenet-ilsvrc-classification
+
+1-Go to the above link and search for "imagenet-vgg-verydeep-19.mat"
+2-Download it to the folder "pretrained model" in the repository.
